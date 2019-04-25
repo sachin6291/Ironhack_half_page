@@ -1,0 +1,64 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size:2 em;
+    color: white;
+}
+.section-1{
+    background: white url(../img/background.png)no-repeat center / cover;
+}
+.section-2{
+    color:white;
+    
+}
+/*el a es temporal*/
+a{
+    text-decoration: none;
+    color:white;
+    padding: 10px;
+    background-color: #32C3FF;
+}
+a:hover{
+    text-decoration: none;
+}
+.blue{
+    color: #32C3FF;
+}
+.logo img {
+    width: 200%;
+    filter: grayscale(100);
+
+}
+.section-3 p{
+    text-align: center;
+    color:rgba(45,53,76,.4);
+    margin: 16px 0 8px;
+}
+.big{
+    display: block;
+    font-size: 70px;
+    font-weight: 700;
+    letter-spacing: -2px;
+}
+.section-4 p{
+    text-align: center;
+}
+.estudiantes{
+    border-radius: 6px;
+    box-shadow: 0 16px 32px 0 rgba(0,0,0,.2);
+    margin-right:32px;
+    width: 644px;
+    vertical-align: middle;
+}
+.orange{
+    color:#f29025;
+    line-height: 34px;
+    font-weight: 300;
+}
+.black{
+    color:rgb(20,20,20);
+}
+.bold{
+    font-weight: bold;
+}
